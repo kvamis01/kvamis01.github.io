@@ -1,6 +1,10 @@
 body {
-  background:url("../images/glarb.png") no-repeat left top;
+ <!-- background:url("../images/glarb.png") no-repeat left top;
   background-repeat:no-repeat;
-  background-position: left top;
+  background-position: left top; -->
   
+}
+
+body {
+  background-color:lightgray;
 }

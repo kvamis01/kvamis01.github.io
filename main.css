@@ -1,4 +1,6 @@
 body {
-  background:url("../images/glarb.png");
+  background:url("../images/glarb.png") no-repeat left top;
+  background-repeat:no-repeat;
+  background-position: left top;
   
 }

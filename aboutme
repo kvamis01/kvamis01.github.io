@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body>
+ 
+   <head>
+      <link rel="stylesheet" href="main.css"> 
+   </head>
+
+   <div class="nav">
+    <div class="container">
+      <ul class="pull-left">
+       <li><a href="#">Home</a></li>
+       <li><a href="#">Topics</a></li>
+       <li><a href="#">Column</a></li>
+       <li><a href="#">About Me</a></li>
+      </ul>
+    </div>
+   </div>  
+
+
+   <div class="jumbotron">
+      <div class="container">
+        <h1>About Me</h1>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p>Writing from the where the prairie meets the sky.</p>
+      </div>
+   </div>
+
+
+
+</body>
+</html>

@@ -1,14 +1,23 @@
+/*Background image of body*/ 
 body {
  <!-- background:url("../images/glarb.png") no-repeat left top;-->
 }
 
+/*Sets font as Open Sans from Google Fonts */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
-
 body {
  font-family: 'Open Sans', sans-serif;
  margin: 30px;
 }
 
+/*This is so the nagivation bar doesn't have a margin, list, etc. */ 
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*Sets style of jumotron*/
 .jumbotron {
   background-image:url('http://goo.gl/04j7Nn');
   height: 500px;

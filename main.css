@@ -24,6 +24,7 @@ ul {
   text-align: center;
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 25px 50px;
 }
 .jumbotron p {
   color: white;

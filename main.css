@@ -5,7 +5,11 @@ body {
   
 }
 
-
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+body {
+ font-family: 'Open Sans', sans-serif;
+ margin: 30px;
+}
 
 .jumbotron {
   background-image:url('http://goo.gl/04j7Nn');

@@ -8,7 +8,7 @@ theme = 'maverick'
   pages = "/:slug"
 
 [params]
-  logo = '/assets/favicon.ico'
+  logo = '/static/favicon.ico'
   description = "Isak Kvam is a Minnesota-based writer interested in climate, decarbonization, and wild places."
   author = 'Isak Kvam'
 

@@ -27,6 +27,11 @@ theme = 'maverick, isak'
     identifier = "portfolio"
     name = "Portfolio"
     url = "/portfolio/"
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = -200
 
 
 [markup]

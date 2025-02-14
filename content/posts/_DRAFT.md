@@ -1,9 +1,9 @@
 +++
-draft = true
+draft = false
 author = "Isak Kvam"
-title = "Title"
-date = "2025-01-17"
-description = "Add a sentence here."
+title = "This is my title"
+date = "2025-02-14"
+description = "This is a test."
 tags = [
     "tags",
     "go",

@@ -8,6 +8,8 @@ tags = [
     "tags",
     "go",
     "here"]
+obsidian_tags:
+  - #blogdraft
 +++
 
 This is where I'll put the text.

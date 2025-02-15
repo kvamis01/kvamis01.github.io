@@ -29,7 +29,7 @@ theme = 'maverick'
     url = "/portfolio/"
   [[menu.main]]
     identifier = "posts"
-    name = "Posts"
+    name = "Blog"
     url = "/posts/"
     weight = -200
 

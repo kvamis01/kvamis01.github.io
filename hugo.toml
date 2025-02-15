@@ -2,7 +2,7 @@ baseURL = 'https://kvamis01.github.io'
 languageCode = 'en-us'
 title = 'Isak Kvam, writer'
 paginate = 3
-theme = 'Maverick'
+theme = 'maverick'
 
 [permalinks]
   pages = "/:slug"

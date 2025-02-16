@@ -6,7 +6,7 @@
     }
   }
 </style>
-<img class="responsive-img" src="Isak-Headshot-Circle.png" style="padding-left:20px" align="right" width="250px" alt="professional headshot of Isak, smiling at the camera and wearing a blue shirt.">
+<img class="responsive-img" src="Isak-Headshot-Circle.webp" style="padding-left:20px" align="right" width="250px" alt="professional headshot of Isak, smiling at the camera and wearing a blue shirt.">
 
 **Hi, I'm Isak - a Minnesota-based writer interested in climate, decarbonization, and wild places.**
 

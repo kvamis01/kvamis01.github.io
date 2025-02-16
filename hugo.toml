@@ -1,4 +1,4 @@
-baseURL = 'https://kvamis01.github.io'
+baseURL = 'https://isakkvam.com'
 languageCode = 'en-us'
 title = 'Isak Kvam, writer'
 paginate = 3
@@ -31,8 +31,6 @@ theme = 'maverick'
     identifier = "posts"
     name = "Blog"
     url = "/posts/"
-    weight = -200
-
 
 [markup]
   [markup.goldmark.renderer]

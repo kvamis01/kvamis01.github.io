@@ -20,7 +20,7 @@ A comprehensive list of (nearly) everything I've written that's available on the
 - [*Backpacker*: Why the Arctic National Wildlife Refuge Oil Lease Sale Flopped](https://www.backpacker.com/news-and-events/why-the-arctic-national-wildlife-refuge-oil-lease-sale-flopped)
 - [*Backpacker*: House Passes Great American Outdoors Act](https://www.backpacker.com/news-and-events/house-passes-great-american-outdoors-act/)
 - [*Rootless Living*: Rocky Mountain National Park](http://isakkvam.local/wp-content/uploads/2020/07/Rocky-Mountain-National-Park-Profile-Rootless-Living-Magazine.pdf)
-- [*Boundary Waters Journal*: Owls of the BWCAW (print, 8-page feature)](http://isakkvam.local/wp-content/uploads/2021/11/Owls-of-the-BWCAW.pdf)
+- [*Boundary Waters Journal*: Owls of the BWCAW (print, 8-page feature)](https://www.boundarywatersjournal.com/shop/available-back-issues/product/192-summer-2020)
 - [*Backpacker*: No Gear Required: 11 Bodyweight Exercises to Train for Hiking](https://www.backpacker.com/skills/bodyweight-exercises-for-hikers-in-quarantine)
 - [*TrailGroove Magazine*: The Hidden Life of Trees Book Review](https://www.trailgroove.com/blogs/entry/196-the-hidden-life-of-trees-book-review/)
 

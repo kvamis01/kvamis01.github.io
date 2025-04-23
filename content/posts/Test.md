@@ -12,4 +12,4 @@ This is where I'll put the text.
 I can paste images:
 ![](../../images/Screenshot%202025-04-23%20at%208.00.53%20AM.png)
 
-If you're reading this from Internet Archive, hello. I'm still figuring out Hugo.
+If you're reading this from Internet Archive: ello. I'm still figuring out Hugo.

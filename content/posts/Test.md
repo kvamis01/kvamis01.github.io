@@ -9,9 +9,7 @@ tags = [
 
 This is where I'll put the text.
 
-Here's my image: ![[Screenshot 2025-04-22 at 6.38.40 PM.png]]
-Publishing straight from Obsidian after fixing the homepage.
-Ok I updated to /static/images/
+I can paste images:
+![](../../images/Screenshot%202025-04-23%20at%208.00.53%20AM.png)
 
-New image: 
-![](kvamis01.github.io/static/images/Screenshot%202025-04-22%20at%208.09.51%20PM.png)
+If you're reading this from Internet Archive, hello. I'm still figuring out Hugo.

@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/test/</link>
       <pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;This is where I&amp;rsquo;ll put the text.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This is where I&amp;rsquo;ll put the text.&lt;/p&gt;&#xA;&lt;p&gt;Image&#xA;&lt;img&#xA;  src=&#34;http://localhost:1313/images/Screenshot%202025-04-23%20at%207.41.26%20AM.png&#34;&#xA;  alt=&#34;&#34;&#xA;  loading=&#34;lazy&#34;&#xA;  decoding=&#34;async&#34;&#xA;  class=&#34;full-width&#34;&#xA;/&gt;&#xA;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

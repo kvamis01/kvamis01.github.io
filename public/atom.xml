@@ -7,7 +7,7 @@
     
     <language>en</language>
     <copyright>Copyright 2025, Calvin Tran</copyright>
-    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
     <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
@@ -17,6 +17,17 @@
       <title>Test</title>
       <link>http://localhost:1313/posts/test/</link>
       <description>&lt;p&gt;This is where I&amp;rsquo;ll put the text.&lt;/p&gt;
+&lt;p&gt;I can paste images:
+&lt;img
+  src=&#34;../../images/Screenshot%202025-04-23%20at%208.00.53%20AM.png&#34;
+  alt=&#34;&#34;
+  loading=&#34;lazy&#34;
+  decoding=&#34;async&#34;
+  class=&#34;full-width&#34;
+/&gt;
+
+&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re reading this from Internet Archive, hello. I&amp;rsquo;m still figuring out Hugo.&lt;/p&gt;
 </description>
       <author>Isak Kvam</author>
       <guid>http://localhost:1313/posts/test/</guid>

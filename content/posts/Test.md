@@ -10,3 +10,4 @@ tags = [
 This is where I'll put the text.
 
 Here's my image: ![[Screenshot 2025-04-22 at 6.38.40 PM.png]]
+Publishing straight from Obsidian.

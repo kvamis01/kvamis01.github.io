@@ -2,9 +2,57 @@
 title: Portfolio
 ---
 
+## Outdoors
+
+<div class="card-row">
+  <div class="card">
+    <a href="https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/worst-hiker-campsite/" target="_blank">
+      <img src="../../images/Outside-Don’t-Be-That-Guy-Here’s-How-Not-to-Act-at-the-Campsite.webp">
+      <strong><em>Outside:</em> Don’t Be That Guy. Here’s How Not to Act at the Campsite.</strong>
+    </a>
+  </div>
+  <div class="card">
+	 <a href="https://www.backpacker.com/news-and-events/news/national-parks-record-crowds-2021/" target="_blank">
+      <img src="../../images/Backpacker-National-Parks-Saw-Record-Crowds-in-2021-Where-Do-We-Go-From-Here.webp">
+      <strong><em>Backpacker:</em> The National Parks Saw Record Crowds in 2021. Where Do We Go From Here?</strong>
+    </a>
+  </div>
+  <div class="card">
+    <a href="https://www.backpacker.com/news-and-events/why-the-arctic-national-wildlife-refuge-oil-lease-sale-flopped" target="_blank">
+      <img src="../../images/Backpacker-Why-the-Arctic-National-Wildlife-Refuge-Oil-Lease-Sale-Flopped.webp">
+      <strong><em>Backpacker:</em> Why the Arctic National Wildlife Refuge Oil Lease Sale Flopped</strong>
+    </a>
+  </div>
+</div>
+
+
+## Climate Explainers
+
+<div class="card-row">
+  <div class="card">
+    <a href="https://fresh-energy.org/minnesotas-electricity-is-now-50-percent-carbon-free" target="_blank">
+      <img src="../../images/Solar-friends.webp">
+      <strong>Minnesota’s electricity is now 50% carbon-free — here’s what that means</strong>
+    </a>
+  </div>
+  <div class="card">
+	 <a href="https://fresh-energy.org/decarbonizing-the-natural-gas-system-minnesota-has-more-progress-to-make-to-keep-pace-with-other-states" target="_blank">
+      <img src="../../images/Decarbonizing-the-natural-gas-system.webp">
+      <strong>Decarbonizing the natural gas system</strong>
+    </a>
+  </div>
+  <div class="card">
+    <a href="https://fresh-energy.org/whats-up-with-battery-storage-in-minnesota" target="_blank">
+    <img src="../../images/Connexus-Ramsey-Storage-Summer-1280x720-1.webp">
+      <strong>What’s up with battery storage in Minnesota?</strong>
+    </a>
+  </div>
+</div>
+
+<hr>
 A comprehensive list of (nearly) everything I've written that's available on the internet.
 
-### Outdoor Consumer Publications
+## Outdoor Consumer Publications
 
 - [*Outside*: Don’t Be That Guy. Here’s How Not To Act at the Campsite.](https://www.outsideonline.com/outdoor-adventure/hiking-and-backpacking/worst-hiker-campsite/)
 - [*Backpacker*: The Inflation Reduction Act Is a Huge Investment in Backpacking](https://www.backpacker.com/news-and-events/news/the-inflation-reduction-act-is-a-huge-investment-in-backpacking/)
@@ -89,10 +137,17 @@ A comprehensive list of (nearly) everything I've written that's available on the
 - [Step Nine: Toilet, Shower & Sink](http://www.isakandmaria.com/van-conversion-guide/van-toilet-shower-sink/)
 - [Step Ten: Internet](http://www.isakandmaria.com/van-conversion-guide/van-internet/)
 
-## Clean Energy
+## Clean Energy and Climate
 
 ### Blog Posts - Fresh Energy
 
+- [Minnesota’s electricity is now 50% carbon-free — here’s what that means](https://fresh-energy.org/minnesotas-electricity-is-now-50-percent-carbon-free)
+- [Subsidies for natural gas appliances are out of line with Minnesota’s climate goals](https://fresh-energy.org/subsidies-for-natural-gas-appliances-are-out-of-line-with-minnesotas-climate-goals)
+- [This tribal college is making clean energy careers accessible in northern Minnesota](https://fresh-energy.org/white-earth-tribal-and-community-college)
+- [Welcoming Brandon to the heavy industry and agriculture team](https://fresh-energy.org/welcoming-brandon-to-the-heavy-industry-and-agriculture-team)
+- [Crookston secures funding for groundbreaking geothermal study](https://fresh-energy.org/crookston-secures-funding-for-groundbreaking-geothermal-study)
+- [The Midwest leads U.S. emissions, here’s why](https://fresh-energy.org/the-midwest-leads-u-s-emissions-heres-why)
+- [Fresh Energy at the Minnesota Capitol: Mid-session update](https://fresh-energy.org/fresh-energy-at-the-minnesota-capitol-mid-session-update)
 - [Bringing personal stories to climate action: Our partnership with Change Narrative](https://fresh-energy.org/bringing-personal-stories-to-climate-action-our-partnership-with-change-narrative)
 - [What to know about the 2025 electric vehicle market, and your other questions about EVs](https://fresh-energy.org/what-to-know-about-the-2025-electric-vehicle-market-and-your-other-questions-about-evs)
 - [Meet Armando, Fresh Energy’s new Capitol Pathways Intern](https://fresh-energy.org/meet-armando-fresh-energys-new-capitol-pathways-intern)

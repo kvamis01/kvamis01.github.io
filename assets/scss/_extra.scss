@@ -16,8 +16,36 @@ footer {
   width: 100%;
   text-align: center;
 }
+
 footer ul li {
   float:left;
   list-style:none;
   margin-right:15px
+}
+
+/* 3-column view */
+
+.card-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.card {
+  flex: 1 1 30%;
+  text-align: center;
+}
+
+.card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+/* Responsive behavior */
+@media (max-width: 768px) {
+  .card {
+    flex: 1 1 100%;
+  }
 }

@@ -4,7 +4,12 @@ title = "Perfectionism is an act of cowardice"
 date = "2024-02-22"
 description = "Thoughts on shipping imperfect things a la Van Neistat, Ira Glass, and Austin Kleon"
 tags = [
-    "creativity, writing, perfectionism, vanneistat, austinkleon, iraglass"]
+    "creativity",
+    "writing",
+    "perfectionism,"
+	"vanneistat,"
+	"austinkleon,"
+	"iraglass"]
 +++
 
 I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.

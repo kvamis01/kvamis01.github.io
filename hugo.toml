@@ -27,10 +27,6 @@ theme = 'maverick'
     identifier = "portfolio"
     name = "Portfolio"
     url = "/portfolio/"
-  [[menu.main]]
-    identifier = "posts"
-    name = "Blog"
-    url = "/posts/"
 
 [markup]
   [markup.goldmark.renderer]

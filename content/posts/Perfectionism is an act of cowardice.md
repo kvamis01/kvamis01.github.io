@@ -6,9 +6,9 @@ description = "Thoughts on shipping imperfect things a la Van Neistat, Ira Glass
 tags = [
     "creativity",
     "writing",
-    "perfectionism,"
-	"vanneistat,"
-	"austinkleon,"
+    "perfectionism",
+	"vanneistat",
+	"austinkleon",
 	"iraglass"]
 +++
 

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Writing on Isak Kvam, writer</title>
-    <link>http://localhost:1313/tags/writing/</link>
-    <description>Recent content in Writing on Isak Kvam, writer</description>
+    <title>Vanneistat on Isak Kvam, writer</title>
+    <link>http://localhost:1313/tags/vanneistat/</link>
+    <description>Recent content in Vanneistat on Isak Kvam, writer</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 22 Feb 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/writing/atom.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vanneistat/atom.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perfectionism is an act of cowardice</title>
       <link>http://localhost:1313/posts/perfectionism-is-an-act-of-cowardice/</link>

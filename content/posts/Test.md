@@ -1,4 +1,5 @@
 +++
+draft = "true"
 author = "Isak Kvam"
 title = "Test"
 date = "2025-02-14"

@@ -141,6 +141,18 @@ A comprehensive list of (nearly) everything I've written that's available on the
 
 ### Blog Posts - Fresh Energy
 
+- [Say goodbye to gas this summer — electrify your yard care](https://fresh-energy.org/say-goodbye-to-gas-this-summer-electrify-your-yard-care)
+- [Meet Shubha, Fresh Energy’s new Chief Equity Policy Officer](https://fresh-energy.org/meet-shubha-fresh-energys-new-chief-equity-policy-officer)
+- [How one Minnesota homeowner installed his own rooftop solar array — by himself](https://fresh-energy.org/how-one-minnesota-homeowners-installed-his-own-rooftop-solar-array-by-himself)
+- [Meet our 2025 Benefit Breakfast Panelists!](https://fresh-energy.org/meet-our-2025-benefit-breakfast-panelists)
+- [Vision 2030: Decarbonizing electricity](https://fresh-energy.org/vision-2030-decarbonizing-electricity)
+- [Going Electric! Your guide to an all-electric Minnesota home and lifestyle in 2025](https://fresh-energy.org/goelectric)
+- [Legislative update: Protecting Minnesota’s clean energy and climate progress](https://fresh-energy.org/2025-session-update-minnesota)
+- [What’s up with virtual power plants?](https://fresh-energy.org/whats-up-with-virtual-power-plants)
+- [Community voices, data must lead in Minnesota’s cumulative impacts rule](https://fresh-energy.org/community-voices-data-must-lead-in-minnesotas-cumulative-impacts-rule)
+- [Electric boats are making waves — find out why](https://fresh-energy.org/electric-boats-are-making-waves-find-out-why)
+- [Fresh Energy interns explore clean energy funding challenges in new podcast episode](https://fresh-energy.org/fresh-energy-interns-explore-clean-energy-funding-challenges-in-new-podcast-episode)
+- [It’s time for a Minnesota Heat Standard to decarbonize buildings](https://fresh-energy.org/its-time-for-a-minnesota-heat-standard-to-decarbonize-buildings)
 - [Minnesota’s electricity is now 50% carbon-free — here’s what that means](https://fresh-energy.org/minnesotas-electricity-is-now-50-percent-carbon-free)
 - [Subsidies for natural gas appliances are out of line with Minnesota’s climate goals](https://fresh-energy.org/subsidies-for-natural-gas-appliances-are-out-of-line-with-minnesotas-climate-goals)
 - [This tribal college is making clean energy careers accessible in northern Minnesota](https://fresh-energy.org/white-earth-tribal-and-community-college)

@@ -13,7 +13,7 @@
 
 I've written about the outdoors, climate, and ecology for 15 years. Words in *Outside*, *Backpacker Magazine*, and *Adventure Journal.*
 
-I currently write about Midwestern decarbonization for [Fresh Energy](https://fresh-energy.org/). I built and manage the Action Network for [Friends of Sherburne National Wildlife Refuge](https://www.exploresherburne.org/).
+I currently write about Midwestern decarbonization for [Fresh Energy](https://fresh-energy.org/). I built and manage the Action Network for [Friends of Sherburne National Wildlife Refuge](https://www.exploresherburne.org/). I provide freelance communications support to environmental non-profits.
 
 Find me on: [Bluesky](https://bsky.app/profile/isakkvam.bsky.social).
 

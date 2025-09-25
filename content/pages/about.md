@@ -3,7 +3,7 @@ title: About
 ---
 <img src="/Isak-Headshot.jpg" style="padding-left:20px" align="right" width="320px" alt="professional headshot of Isak, smiling at the camera and wearing a blue shirt.">
 
-**Isak Kvam is a Minnesota-based writer who specializes in making environmental policy, climate technology, and ecology accessible to both technical and general audiences.** His work helps readers navigate complex topics like climate change, sustainable land use, and outdoor recreation.
+**Isak Kvam is a Minnesota-based writer who specializes in making environmental policy, climate technology, and conservation ecology accessible to both technical and general audiences.** His work helps readers navigate complex topics like climate change, sustainable land use, and outdoor recreation.
 
 With a background in ecology, writing, and policy, Isak writes short- and long-form explainers on environmental issues. His non-fiction work often explores how environmental and climate policy affects communities, how the clean energy transition is being implemented, and reflections on public lands and outdoor recreation.
 

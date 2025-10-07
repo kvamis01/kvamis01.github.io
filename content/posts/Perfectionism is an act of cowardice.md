@@ -63,6 +63,7 @@ Austin Kleon shared a parable from David Bayles and Ted Orland’s book, [Art & 
 
 If ABC is Always Be Closing, a mantra I follow is Always Be Shipping. Sure, plenty of my writing is just for me and doesn’t make it to publication as a choice, but it’s finished. I allow myself to have creative lulls, to step out of routine and explore new interests or purposefully (painfully) embrace the suck when the inspiration is dry. But one thing I regularly tell myself is to not allow quality to get in the way of publishing.
 
-When I was a kid, my dad’s friend Elmo was a carpenter that framed a lot of houses around small towns in southwestern Minnesota. He’d sarcastically joke when finishing up a framing job: “Well, perfect is good enough.” That little joke is something I say to myself pretty often when I’m clicking “publish,” knowing it’s nowhere near perfect, but it’s getting me a little closer to excellent each day.
+When I was a kid, my dad’s friend Elmo was a carpenter that framed a lot of houses around small towns in southwestern Minnesota. He’d sarcastically joke when finishing up a framing job: “Well, perfect is good enough.” That little joke is something I say to myself pretty often when I’m clicking “publish,” knowing it’s nowhere near perfect, but it’s getting me a little closer to excellent each d
+ay.
 
 ![](kvamis01.github.io/images/Pasted%20image%2020251007164650.png)

@@ -72,5 +72,5 @@ source = 'images'
 target = 'static/images'
 
 [[module.mounts]]
-source = 'content/blog-images'
-target = 'static/blog-images'
+source = 'content/blog-images/'
+target = 'static/blog-images/'

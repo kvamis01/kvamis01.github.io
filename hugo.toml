@@ -70,3 +70,7 @@ target = 'static'
 [[module.mounts]]
 source = 'images'
 target = 'static/images'
+
+[[module.mounts]]
+source = 'content/blog-images'
+target = 'static/blog-images'

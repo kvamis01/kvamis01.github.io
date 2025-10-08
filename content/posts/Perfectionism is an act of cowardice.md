@@ -1,3 +1,17 @@
+---
+title: "Perfectionism is an act of cowardice"
+date: 2025-10-08T13:32:32.667Z
+draft: false
+tags: []
+---
+
+---
+title: "Perfectionism is an act of cowardice"
+date: 2025-10-08T13:32:23.462Z
+draft: false
+tags: []
+---
+
 +++
 author = "Isak Kvam"
 title = "Perfectionism is an act of cowardice"
@@ -65,5 +79,6 @@ If ABC is Always Be Closing, a mantra I follow is Always Be Shipping. Sure, plen
 
 When I was a kid, my dad’s friend Elmo was a carpenter that framed a lot of houses around small towns in southwestern Minnesota. He’d sarcastically joke when finishing up a framing job: “Well, perfect is good enough.” That little joke is something I say to myself pretty often when I’m clicking “publish,” knowing it’s nowhere near perfect, but it’s getting me a little closer to excellent each day.
 
+test
 
 ![](content/blog-images/Pasted%20image%2020251007155253.png)

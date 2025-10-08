@@ -65,4 +65,5 @@ If ABC is Always Be Closing, a mantra I follow is Always Be Shipping. Sure, plen
 
 When I was a kid, my dad’s friend Elmo was a carpenter that framed a lot of houses around small towns in southwestern Minnesota. He’d sarcastically joke when finishing up a framing job: “Well, perfect is good enough.” That little joke is something I say to myself pretty often when I’m clicking “publish,” knowing it’s nowhere near perfect, but it’s getting me a little closer to excellent each day.
 
+
 ![](content/blog-images/Pasted%20image%2020251007155253.png)

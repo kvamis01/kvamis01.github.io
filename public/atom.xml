@@ -3,20 +3,34 @@
     
     <title>Isak Kvam, writer</title>
     <description>Isak Kvam is a Minnesota-based writer interested in climate, decarbonization, and wild places.</description>
-    <link>http://localhost:1313/</link>
+    <link>https://isakkvam.com/</link>
     
     <language>en</language>
-    <copyright>Copyright 2025, Calvin Tran</copyright>
+    <copyright>Copyright 2026, Calvin Tran</copyright>
     <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <generator>Hugo - gohugo.io</generator>
     <docs>http://cyber.harvard.edu/rss/rss.html</docs>
-    <atom:link href="http://localhost:1313//atom.xml" rel="self" type="application/atom+xml"/>
+    <atom:link href="https://isakkvam.com//atom.xml" rel="self" type="application/atom+xml"/>
     
     
     <item>
-      <title>Perfectionism is an act of cowardice</title>
-      <link>http://localhost:1313/posts/perfectionism-is-an-act-of-cowardice/</link>
-      <description>&lt;p&gt;I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.&lt;/p&gt;
+      <title></title>
+      <link>https://isakkvam.com/posts/perfectionism-is-an-act-of-cowardice/</link>
+      <description>&lt;p&gt;≤+++
+author = &amp;ldquo;Isak Kvam&amp;rdquo;
+title = &amp;ldquo;Perfectionism is an act of cowardice&amp;rdquo;
+date = &amp;ldquo;2024-02-22&amp;rdquo;
+description = &amp;ldquo;Thoughts on shipping imperfect things a la Van Neistat, Ira Glass, and Austin Kleon&amp;rdquo;
+tags = [
+&amp;ldquo;creativity&amp;rdquo;,
+&amp;ldquo;writing&amp;rdquo;,
+&amp;ldquo;perfectionism&amp;rdquo;,
+&amp;ldquo;vanneistat&amp;rdquo;,
+&amp;ldquo;austinkleon&amp;rdquo;,
+&amp;ldquo;iraglass&amp;rdquo;,
+&amp;ldquo;blog&amp;rdquo;]
++++&lt;/p&gt;
+&lt;p&gt;I’ve been following Van Neistat’s videos since his fifth video was published, which the YouTube algorithm suggested while I was vanning through Walla Walla, Washington. I was killing time hanging out by the river and, having watched most of his brother Casey’s daily vlogs (rip daily vlogs), quickly watched all his videos beginning to end.&lt;/p&gt;
 &lt;p&gt;He can get ranty. He can be cranky. He has plenty of opinions I don’t agree with. But his videos about the creative process are fascinating.&lt;/p&gt;
 &lt;p&gt;His latest, about the struggles of perfectionism as a creative person and working toward “good enough” or “excellent,” is so relatable:&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=dBqK6e9A9bE&#34; target=&#34;_blank&#34; rel=&#34;noopener noreferrer&#34;&gt;https://www.youtube.com/watch?v=dBqK6e9A9bE&lt;/a&gt;&lt;/p&gt;
@@ -48,8 +62,8 @@
 &lt;p&gt;When I was a kid, my dad’s friend Elmo was a carpenter that framed a lot of houses around small towns in southwestern Minnesota. He’d sarcastically joke when finishing up a framing job: “Well, perfect is good enough.” That little joke is something I say to myself pretty often when I’m clicking “publish,” knowing it’s nowhere near perfect, but it’s getting me a little closer to excellent each day.&lt;/p&gt;
 </description>
       <author>Isak Kvam</author>
-      <guid>http://localhost:1313/posts/perfectionism-is-an-act-of-cowardice/</guid>
-      <pubDate>Thu, 22 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://isakkvam.com/posts/perfectionism-is-an-act-of-cowardice/</guid>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
     </item>
     
   </channel>

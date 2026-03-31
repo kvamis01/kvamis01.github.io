@@ -149,7 +149,7 @@ A comprehensive list of (nearly) everything I've written that's available on the
 - [Meet Molly, our new Session Associate, Legislative Affairs](https://fresh-energy.org/meet-molly-our-new-session-associate-legislative-affairs)
 - [Climate change books in 2026: Fresh Energy’s top 29 picks](https://fresh-energy.org/climate-books-2026)
 - [Minnesota is building innovative climate projects through new state agency’s green financing](https://fresh-energy.org/minnesota-is-building-innovative-climate-projects-through-new-state-agencys-green-financing)
-* [Our top 25 accomplishments of 2025](https://fresh-energy.org/top-25)
+- [Our top 25 accomplishments of 2025](https://fresh-energy.org/top-25)
 - [How Fresh Energy plugs into the Midwest grid](https://fresh-energy.org/how-fresh-energy-plugs-into-the-midwest-grid)
 - [Wanted: Climate Champions](https://fresh-energy.org/wanted-climate-champions)
 - [Thank you to our 2025 Give to the Max Day donors!](https://fresh-energy.org/thank-you-to-our-2025-give-to-the-max-day-donors)
@@ -248,7 +248,6 @@ A comprehensive list of (nearly) everything I've written that's available on the
 - [A Catalyst for Change – 6 facts about Ramez Naam, Fresh Energy’s 2023 Benefit Breakfast keynote speaker](https://fresh-energy.org/6-facts-about-ramez-naam-fresh-energys-2023-benefit-breakfast-keynote-speaker)
 - [Fresh Energy’s Buildings Department grows its capacity](https://fresh-energy.org/fresh-energys-buildings-department-grows-its-capacity)
 - [Outcomes, future opportunities from Xcel Energy’s rate case](https://fresh-energy.org/outcomes-future-opportunities-from-xcel-energys-rate-case)
-
 ### Blog Posts - Clean Grid Alliance
 
 - [Illinois’ Bright Clean Energy Future](https://cleangridalliance.org/blog/111/illinois-bright-clean-energy-future)

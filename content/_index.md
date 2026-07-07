@@ -12,7 +12,7 @@
 
 I currently write about clean energy and climate policy as Director, Communications at [Fresh Energy](https://fresh-energy.org/). I manage our content strategy, oversee our ~9,000-person [newsletter](https://fresh-energy.org/subscribe), film [short-form videos](https://www.instagram.com/freshenergytoday), and host [podcasts and webinars](https://fresh-energy.org/publications).
 
-I've written about climate, clean energy, and the outdoors for 15 years. Words featured in *Outside Magazine*, *Backpacker Magazine*, and *Adventure Journal.*
+I've written about climate, clean energy, and the outdoors for 15 years. Words featured in *Yale Climate Connections*, *Outside Magazine*, *Backpacker Magazine*, and *Adventure Journal.*
 
 I built and manage the Action Network for [Friends of Sherburne National Wildlife Refuge](https://www.exploresherburne.org/take-action). I [blog about reading and creativity](https://www.exploresherburne.org/take-action). I co-founded [Seek More Wilderness](https://seekmorewilderness.com/) and [ModernKind](https://trymodernkind.com/). I supplement my writing with drone photography.
 

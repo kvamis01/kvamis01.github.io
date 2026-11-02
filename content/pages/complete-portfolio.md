@@ -8,6 +8,18 @@ A comprehensive list of (nearly) everything I've written that's available on the
 
 ### Blog Posts - Fresh Energy
 
+* [What’s up with grid utilization?](https://fresh-energy.org/whats-up-with-grid-utilization)
+- [Meet Peter, Fresh Energy’s new Chief Financial and Operations Officer](https://fresh-energy.org/meet-peter-fresh-energys-new-chief-financial-and-operations-officer)
+- [Regulatory Update: Minnesota Public Utilities Commission opens statewide investigation into energy affordability](https://fresh-energy.org/regulatory-update-minnesota-public-utilities-commission-opens-statewide-investigation-into-energy-affordability)
+- [Fresh Energy Statement: HOURCAR, Minnesota’s carshare organization, closes its doors after more than 20 years](https://fresh-energy.org/fresh-energy-statement-hourcar-minnesotas-local-carshare-organization-closes-its-doors-after-more-than-20-years)
+- [Leading the Charge: Fresh Energy’s 11th annual Breakfast a success](https://fresh-energy.org/leading-the-charge-fresh-energys-11th-annual-breakfast-a-success)
+- [What’s up with Minnesota’s gas utility regulatory processes?](https://fresh-energy.org/whats-up-with-minnesotas-gas-utility-regulatory-processes)
+- [Advocating for energy efficiency, equity, electrification in 2027-2029 ECO Triennials](https://fresh-energy.org/advocating-for-energy-efficiency-equity-electrification-in-2027-2029-eco-triennials)
+- [Minnesota Power can deliver reliable, clean electricity without costly new gas](https://fresh-energy.org/minnesota-power-can-deliver-reliable-clean-electricity-without-costly-new-gas)
+- [See the future of home electrification at our Fair of the Future](https://fresh-energy.org/see-the-future-of-home-electrification-at-our-fair-of-the-future)
+- [Regulatory Update: Xcel’s distribution plan adopts steps toward greater transparency, VPP pilot](https://fresh-energy.org/regulatory-update-xcels-distribution-plan-adopts-steps-toward-greater-transparency)
+- [Meet Claudia, the newest member of Fresh Energy’s Electricity team](https://fresh-energy.org/meet-claudia-the-newest-member-of-fresh-energys-electricity-team)
+- [A short history of environmental justice and Minnesota’s cumulative impacts law](https://fresh-energy.org/a-short-history-of-environmental-justice-and-minnesotas-cumulative-impacts-law)
 - [Local climate author and book publisher raise bar for sustainable book publishing](https://fresh-energy.org/local-climate-author-and-book-publisher-raise-bar-for-sustainable-book-publishing)
 - [Minnesota now incentivizes green hydrogen to produce SAF, a key climate technology](https://fresh-energy.org/minnesota-now-incentivizes-green-hydrogen-to-produce-saf-a-key-climate-technology)
 - [Minnesota Public Utilities Commission maintains gas line extension allowances with new monitoring requirements, uniform distance](https://fresh-energy.org/minnesota-public-utilities-commission-maintains-gas-line-extension-allowances-with-new-monitoring-requirements-uniform-distance)

@@ -14,7 +14,7 @@ I currently write about clean energy and climate policy as Director, Communicati
 
 I've written about climate, clean energy, and the outdoors for 15 years. Words featured in *Yale Climate Connections*, *Outside Magazine*, *Backpacker Magazine*, and *Adventure Journal.*
 
-I built and manage the Action Network for [Friends of Sherburne National Wildlife Refuge](https://www.exploresherburne.org/take-action). I [blog about reading and creativity](https://www.exploresherburne.org/take-action). I co-founded [Seek More Wilderness](https://seekmorewilderness.com/) and [ModernKind](https://trymodernkind.com/). I supplement my writing with drone photography.
+I built and manage the Action Network for [Friends of Sherburne National Wildlife Refuge](https://www.exploresherburne.org/take-action). I [blog about reading and creativity](https://blog.isakkvam.com/). I co-founded [Seek More Wilderness](https://seekmorewilderness.com/) and [ModernKind](https://trymodernkind.com/). I supplement my writing with drone photography.
 
 Find me on [Bluesky](https://bsky.app/profile/isakkvam.bsky.social) and [LinkedIn](https://www.linkedin.com/in/isakkvam/).
 
